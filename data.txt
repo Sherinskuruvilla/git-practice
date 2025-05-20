@@ -1,0 +1,3 @@
+Name: Steffy
+Age:26
+Favorite Color: Blue
